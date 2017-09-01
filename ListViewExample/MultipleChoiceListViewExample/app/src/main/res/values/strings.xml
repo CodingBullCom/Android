@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MultipleChoiceListViewExample</string>
+    <string name="select_friends">Select your friends to invite for the dinner party tonight.</string>
+    <string name="invite_friends">Invite</string>
+
+</resources>

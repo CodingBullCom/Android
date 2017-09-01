@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SingleChoiceListView</string>
+    <string name="select_friends">Select your ice cream.</string>
+    <string name="invite_friends">Order</string>
+</resources>
